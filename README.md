@@ -5,37 +5,37 @@ It combines feature engineering techniques, a trained Ridge Regression model, an
 
 ## 📊 Dataset
 
-Name: Algerian Forest Fire Dataset
+1. Name: Algerian Forest Fire Dataset
 
-Features: Temperature, Relative Humidity (RH), Wind Speed (Ws), Rain, FFMC, DMC, ISI, Classes, Region
+2. Features: Temperature, Relative Humidity (RH), Wind Speed (Ws), Rain, FFMC, DMC, ISI, Classes, Region
 
-Target: Fire Weather Index (FWI)
+3. Target: Fire Weather Index (FWI)
 
-The dataset consists of 244 instances collected from two regions of Algeria (Bejaia and Sidi-Bel Abbes) during the summer of 2012.
+4. The dataset consists of 244 instances collected from two regions of Algeria (Bejaia and Sidi-Bel Abbes) during the summer of 2012.
 
 ## ⚡ Features of the Project
 
-Data preprocessing & feature engineering (scaling, cleaning)
+1. Data preprocessing & feature engineering (scaling, cleaning)
 
-Regression model (Ridge Regression) trained on the dataset
+2. Regression model (Ridge Regression) trained on the dataset
 
-Web application built with Flask
+3. Web application built with Flask
 
-User-friendly form in HTML for entering weather parameters
+4. User-friendly form in HTML for entering weather parameters
 
-Real-time prediction of FWI values
+5. Real-time prediction of FWI values
 
 ## 🛠️ Tech Stack
 
-Python – Core programming
+1. Python – Core programming
 
-Flask – Web framework
+2. Flask – Web framework
 
-scikit-learn – Machine Learning & preprocessing
+3. scikit-learn – Machine Learning & preprocessing
 
-Pickle – Model persistence
+4. Pickle – Model persistence
 
-HTML – Frontend interface
+5. HTML – Frontend interface
 
 ## 🙌 Acknowledgements
 
