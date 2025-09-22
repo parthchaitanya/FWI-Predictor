@@ -1,4 +1,4 @@
-### FWI Predictor – Algerian Forest Fire Dataset
+## FWI Predictor – Algerian Forest Fire Dataset
 
 This project is a Machine Learning web application that predicts the Fire Weather Index (FWI) using the Algerian Forest Fire dataset.
 It combines feature engineering techniques, a trained Ridge Regression model, and a simple Flask + HTML interface to provide real-time predictions.
